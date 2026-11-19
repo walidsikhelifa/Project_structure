@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: End-to-end-network-ML
+Version: 0.0.1
+Author: Walid
+Requires-Dist: pandas
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo
+Dynamic: author
+Dynamic: requires-dist
